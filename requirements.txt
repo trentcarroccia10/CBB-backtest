@@ -1,0 +1,4 @@
+sports-betting>=0.15
+pandas
+numpy
+scikit-learn
